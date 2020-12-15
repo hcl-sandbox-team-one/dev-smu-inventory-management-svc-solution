@@ -42,6 +42,6 @@ vcsInfo:
 
 partOf: inventory
 
-connectsTo: "inventory-svc-ar"
+connectsTo: "inventory-svc-smu"
 
 runtime: spring
